@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\bin\Debug\netcoreapp2.1\Unit2.deps.json
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\bin\Debug\netcoreapp2.1\Unit2.runtimeconfig.json
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\bin\Debug\netcoreapp2.1\Unit2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\bin\Debug\netcoreapp2.1\Unit2.dll
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\bin\Debug\netcoreapp2.1\Unit2.pdb
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.dll
+C:\Users\Administrator\source\repos\GrandCircus\Unit2\obj\Debug\netcoreapp2.1\Unit2.pdb
